@@ -4,14 +4,9 @@ Click [here](https://www.hackerearth.com/challenges/competitive/hackerearth-mach
 to visit the problem.
 
 ### Steps to build the ML model:
-- [x] Load the data
-- [ ] Preprocess
-- [ ] Make model
+- [x] Load  data
+- [ ] Preprocess data
+- [ ] Build model
 - [ ] Train model
-- [ ] Predict model
+- [ ] Predict
 
-Testing footnotes.[^1]
-Another Try.[^2]
-
-[^1]: Some text<br>
-[^2]: Next try
