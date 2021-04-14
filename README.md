@@ -5,8 +5,10 @@ to visit the problem.
 
 ### Steps to build the ML model:
 - [x] Load  data
-- [ ] Preprocess data
-- [ ] Build model
-- [ ] Train model
-- [ ] Predict
+- [x] Preprocess data
+- [x] Build model
+- [x] Train model
+- [x] Predict
+
+##### The model achieved an f1-score of 60
 
